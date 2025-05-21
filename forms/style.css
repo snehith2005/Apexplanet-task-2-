@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+button{
+    color: brown;
+}
+
+.main{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.main div{
+    height: 100px;
+    width: 50%;
+    border: 2px solid black;
+}
